@@ -1,2 +1,0 @@
-# I2C_LCD_PCF8574T
-ATxmega: 1602 HD44780 LCD with I2C module
